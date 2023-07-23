@@ -1,0 +1,7 @@
+version: "Apple Swift version 5.8.1 (swiftlang-5.8.0.124.5 clang-1403.0.22.11.100)"
+options: "1c2a34b35aefcad685c1a091df2aa2e4e5ff26b31a0fd2b44c87f0301e7a021a"
+build_start_time: [1690123224, 20790000]
+build_end_time: [1690123224, 52210000]
+inputs:
+  "/Users/yashkumawat/.pub-cache/hosted/pub.dev/file_selector_macos-0.9.3+1/macos/Classes/FileSelectorPlugin.swift": !private [1690017688, 119146804]
+  "/Users/yashkumawat/.pub-cache/hosted/pub.dev/file_selector_macos-0.9.3+1/macos/Classes/messages.g.swift": !private [1690017688, 119281677]
